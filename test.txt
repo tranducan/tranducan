@@ -1,4 +1,5 @@
 hello everyone
 my name is An
 My company is First solar
+I am learning Git tutorial. I try to understand about Git
 
