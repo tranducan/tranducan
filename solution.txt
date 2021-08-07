@@ -1,0 +1,2 @@
+How to git comaparation. Let understand more ?
+We can use 'git diff branch1 branch2 to compare 2 branches'
